@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JacopoBartoli, a Master's Degree student in Computer Engineering
+- 👋 Hi, I’m @JacopoBartoli, a Master's Degree Student in Computer Engineering
 - 👀 I’m interested in Machine Learning
 - 🌱 I’m currently learning Class Incremental Learning
 
